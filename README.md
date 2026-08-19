@@ -118,7 +118,6 @@ Every push to the main branch triggers a GitHub Actions workflow that builds the
 
 - Deploying to AWS
 - More test coverage
-- Frontend repo (Angular 19) coming soon
 
 ## Author
 
